@@ -1,0 +1,28 @@
+/*
+Theme Name: PWA
+Theme URI: http://localhost
+Author: Joshua Curtis
+Author URI: http://localhost
+Description: A custom theme for my PWA WordPress project
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: my-pwa-theme
+*/
+
+
+h1 {
+    color: red;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+}
